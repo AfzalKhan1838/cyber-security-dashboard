@@ -1,16 +1,3 @@
-// const express = require("express");
-// const router = express.Router();
-// const { scanUrl, getLogs } = require("../controllers/scanController");
-
-// router.post("/scan", scanUrl);
-// router.get("/logs", getLogs);
-
-// module.exports = router;
-
-
-
-
-
 
 const express = require("express");
 const router = express.Router();
